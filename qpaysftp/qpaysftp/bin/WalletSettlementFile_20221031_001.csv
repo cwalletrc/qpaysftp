@@ -1,0 +1,11 @@
+Settlement File Report#,,,,,,,,
+Customer Name:,CWALLET#,,,,,,,
+Date,10/31/2022#,,,,,,,
+Time,04:35:46#,,,,,,,
+Settlement Batch Number :,1#,,,,,,,
+Transaction Sequence Number,Transaction Code,Transaction Type Code Description,Transaction Currency,Transaction Amount - Net,Transaction Fee,Transaction Amount - Gross,Number  of Transactions,Ref_No#
+1,B16,Al-Dar Payment,QAR,50.00,15.00,65.00,1,18072022302#
+Transaction Type Total:,1#,,,,,,,
+Net Totals:,50.00#,,,,,,,
+Fee Total:,15.00#,,,,,,,
+Gross Total:,65.00#,,,,,,,

@@ -1,0 +1,25 @@
+Settlement File Report#,,,,,,,,
+Customer Name:,CWALLET#,,,,,,,
+Date,07/19/2022#,,,,,,,
+Time,04:35:46#,,,,,,,
+Settlement Batch Number :,1#,,,,,,,
+Transaction Sequence Number,Transaction Code,Transaction Type Code Description,Transaction Currency,Transaction Amount - Net,Transaction Fee,Transaction Amount - Gross,Number  of Transactions,Ref_No#
+1,302,AlDar Exchange,QAR,1386538.89,6843,1393381.89,430,18072022302#
+2,312,Aldar Refund Charge Fee,QAR,12.03,0,12.03,2,18072022312#
+3,311,Aldar Reversal,QAR,-23595.06,-35,-23630.06,10,18072022311#
+4,209,ATM Cash-Out,QAR,368500,1260,369760,824,18072022209#
+5,219,ATM Reversal,QAR,-196200,-465,-196665,394,18072022219#
+6,214,Cash Out Port Out,QAR,5556.01,128,5684.01,55,18072022214#
+7,285,Cash-in by debit card,QAR,5959763,6450,5966213,2150,18072022285#
+8,208,Cash-Out-On-Closure,QAR,0,163,163,24,18072022208#
+9,239,Incoming Transfers,QAR,1410.37,0,1410.37,348,18072022239#
+10,251,Instant Commission Payment,QAR,750,0,750,755,18072022251#
+11,280,Merchant Payment,QAR,130.81,0.19,131,3,18072022280#
+12,200,Person-2-Person transfer,QAR,364555,3164,367719,770,18072022200#
+13,265,Virtual Card to Wallet Transfer,QAR,6798.98,0,6798.98,51,18072022265#
+14,241,Wallet to Local Bank Acct. Transfer,QAR,111588,284,111872,75,18072022241#
+15,264,Wallet to Virtual Card Transfer,QAR,28636.3,335,28971.3,101,18072022264#
+Transaction Type Total:,5992#,,,,,,,
+Net Totals:,8014444.33#,,,,,,,
+Fee Total:,18127.19#,,,,,,,
+Gross Total:,8032571.52#,,,,,,,
